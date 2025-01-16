@@ -28,11 +28,7 @@ export default defineConfig({
       name: 'Desktop Safari',
       use: { ...devices['Desktop Safari'] },
     },
-    // Appareils mobiles
-    {
-      name: 'iPhone 14',
-      use: { ...devices['iPhone 14'] }, // Profils préconfigurés pour iPhone 14
-    },
+   
     
   ],
 });
