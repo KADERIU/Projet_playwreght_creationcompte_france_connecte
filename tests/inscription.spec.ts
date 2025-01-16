@@ -50,6 +50,6 @@ data.forEach((data) => {
 
     // Étape 8 : Cocher la checkbox pour accepter les communications
     const checkBox = await page.$('#edit-field-accepte-communications-value');
-    //await page.evaluate((element) => element.click(), checkBox);
+    await page.evaluate((element) => element.click(), checkBox);
   });
 });
