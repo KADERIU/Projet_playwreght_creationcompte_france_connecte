@@ -28,6 +28,14 @@ export default defineConfig({
       name: 'Desktop Safari',
       use: { ...devices['Desktop Safari'] },
     },
+     // iPhone 12
+     {
+      name: 'Mobile iPhone 12',
+      use: {
+        ...devices['iPhone 12'],
+        headless: true, // Optionnel : exécute les tests en mode headless sur l'iPhone 12
+      },
+    },
    
     
   ],
