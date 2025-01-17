@@ -58,35 +58,5 @@
     "statut": "Étudiants",
     "domaine": "Informatique",
     "niveau": "Doctorat / PhD"
-  },
-  {
-    "email": "mohamed.ali@mail.tn",
-    "motDePasse": "MyPass123*",
-    "genre": "Mr",
-    "nom": "Ali",
-    "prenom": "Mohamed",
-    "paysNaissance": "Tunisie",
-    "nationalite": "Tunisien",
-    "c_postal": "1001",
-    "ville": "Tunis",
-    "numerTel": "2161234567",
-    "statut": "Étudiants",
-    "domaine": "Médecine",
-    "niveau": "Master 2"
-  },
-  {
-    "email": "sophie.chen@mail.cn",
-    "motDePasse": "P@ssword678!",
-    "genre": "Mme",
-    "nom": "Chen",
-    "prenom": "Sophie",
-    "paysNaissance": "Chine",
-    "nationalite": "Chinoise",
-    "c_postal": "200001",
-    "ville": "Shanghai",
-    "numerTel": "8613987654",
-    "statut": "Étudiants",
-    "domaine": "Médecine",
-    "niveau": "Doctorat / PhD"
   }
 ]
